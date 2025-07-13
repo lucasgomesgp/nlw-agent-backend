@@ -15,6 +15,13 @@
       "when": 1752257073602,
       "tag": "0001_dear_yellowjacket",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752355021067,
+      "tag": "0002_greedy_squadron_supreme",
+      "breakpoints": true
     }
   ]
 }
